@@ -1,2 +1,2 @@
 # ActionsDemo
-Practice using actions and Netlify to deploy a static website
+Practice using actions with HTML scan and Netlify host
